@@ -63,7 +63,7 @@ Touch the GameBoy Advance SP (or the Libretro RetroArch logo if you use the alte
 # Donation
 If you like my work, please consider a small donation.
 
-You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a> or <a href="https://ko-fi.com/maestrosistema"><b>Ko-Fi</b></a>.
+You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a>.
 
 Thank You!
 
